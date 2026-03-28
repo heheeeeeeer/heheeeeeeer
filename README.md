@@ -1,23 +1,33 @@
-- 👋 Hi, This is @heheeeeeeer
+
+
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Pipecat</title><path d="M3.309 5.116a.87.87 0 0 1 .958.24L7.369 8.89h9.262l3.102-3.536a.867.867 0 0 1 1.52.573v7.807H24v1.735h-4.482V8.232l-1.842 2.099a.87.87 0 0 1-.652.295H6.976a.87.87 0 0 1-.652-.295l-1.842-2.1v7.239H0v-1.735h2.747V5.928c0-.362.224-.685.562-.812m16.209 12.089H24v1.735h-4.482zM0 17.205h4.482v1.735H0zm9.253-2.892a1.157 1.157 0 1 1-2.314 0 1.157 1.157 0 0 1 2.314 0m7.807 0a1.157 1.157 0 1 1-2.313 0 1.157 1.157 0 0 1 2.313 0"/></svg>
+
+👋 Hi, This is @heheeeeeeer
+
+# ![](https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767)
+Hey! Nice to see you.
+
+## 🎓 About heheer
+
 - 🎓 2nd year PhD, ecology, Zhejiang University
+- 🏠 currently living in  Hang zhou, China
+- 🐱 two adooooooooorable cats！
 - 📫 heheer@zju.edu.cn
 - ✨ Glad to meeeeeeet u~
 - 🏸 Let's play badminton!!!!!! 
-- 💗 Find me [📺](https://space.bilibili.com/630806242?spm_id_from=333.1007.0.0)  [🎵](https://v.douyin.com/DN8EA3FYWEs/) [🍠](https://xhslink.com/m/1650DMsqdWt)
 
----
+## Find me
 
-## 🎓 About Me
+ [🎵](https://v.douyin.com/DN8EA3FYWEs/) [📺](https://space.bilibili.com/630806242?spm_id_from=333.1007.0.0) [🍠](https://xhslink.com/m/1650DMsqdWt)
 
-我是一名浙江大学生态学专业的二年级博士生。我对生物多样性保护、环境数据分析、生态系统建模充满热情。在 GitHub 上，我希望能够学习新的技术，分享我的研究代码和数据分析项目，并与社区互动。
 
----
+--- 
 
-## 🌱 My Skills & Tools
+### 🌱 Skills
 
-### 🛠️ Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- 如果你还用其他语言，比如 SQL, JavaScript 等，可以添加 -->
 
 ### 📊 Data & Tools
@@ -28,30 +38,14 @@
 
 ---
 
+## 💖 My Hobbies
+
+除了编程和研究，我的兴趣爱好包括：🍚 享受美食，🐱 和我的猫咪玩耍，🏸 打羽毛球，📷 摄影，以及 💻 探索新的技术。
+
+---
+
 ## 🔥 My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=heheeeeeeer&theme=radical)](https://git.io/streak-stats)
 
----
-
-## 📊 My GitHub Stats
-[![heheeeeeeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=heheeeeeeer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heheeeeeeer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🤝 Connect With Me
-
-*   📧 **Email:** heheer@zju.edu.cn
-*   ✨ **很高兴认识你！** 我喜欢交流和分享，欢迎通过邮件联系我。
-*   🏸 **兴趣爱好：** 我热爱羽毛球运动！
-*   💗 **Find me on:**
-    *   [📺 Bilibili](https://space.bilibili.com/630806242?spm_id_from=333.1007.0.0)
-    *   [🎵 Douyin](https://v.douyin.com/DN8EA3FYWEs/)
-    *   [🍠 Xiaohongshu](https://xhslink.com/m/1650DMsqdWt)
-
----
 
 <!---
 heheeeeeeer/heheeeeeeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
