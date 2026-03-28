@@ -6,8 +6,7 @@
 - 🏠 Hang Zhou, China
 - 🏸 Let's play badminton!!!!!!  And... 📷 💻 🎬 🍚 🥤 🗺️ ...
 - 🐱 OMG! Two adooooooooorable cats！<br>
-<br>
-<img src="./assets/财财.gif" width="150" alt="财财"> &nbsp; <img src="./assets/刊刊.gif" width="150" alt="刊刊"> 
+<img src="./assets/财财.gif" width="120" alt="财财"> &nbsp; <img src="./assets/刊刊.gif" width="120" alt="刊刊"> 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="25" alt="eyes"> Find me
 
