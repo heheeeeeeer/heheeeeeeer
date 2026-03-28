@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;Yep! Still learning......
 
 <br>
-<div align="right">
+<div align="left">
   <!-- DATE_START -->
   <kbd>2026-03-28</kbd>
   <!-- DATE_END -->
