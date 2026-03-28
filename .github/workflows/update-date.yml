@@ -1,0 +1,30 @@
+name: Update Daily Date
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 时间 0点（北京时间早上8点）自动运行
+  workflow_dispatch: # 允许在 GitHub Actions 页面手动触发测试
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予写入仓库的权限
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update date in README
+        run: |
+          # 获取当前日期 (YYYY-MM-DD 格式)
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+          # 使用 perl 替换 README.md 中的日期占位符之间的内容
+          perl -0777 -pi -e "s/<!-- DATE_START -->.*?<!-- DATE_END -->/<!-- DATE_START -->\n  <kbd>${CURRENT_DATE}<\/kbd>\n  <!-- DATE_END -->/s" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # 如果文件有变更则提交并推送
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update daily date" && git push)
