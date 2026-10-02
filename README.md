@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30" alt="Meow Attention"> Hi, This is heheer
 
 - ✨ Glad to meeeeeeet u~
-- 🎓 2nd year PhD, ecology, Zhejiang University
+- 🎓 3rd year PhD, ecology, Zhejiang University
 - 📫 heheer@zju.edu.cn
 - 🏠 Hang Zhou, China
 - 🏸 Let's play badminton!!!!!!  And... 📷 💻 🎬 🍚 🥤 🗺️ ...
